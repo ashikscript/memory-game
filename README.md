@@ -34,7 +34,7 @@ A fun and interactive Bengali memory card matching game playable directly in the
 ## 🌐 Live Demo
 
 > If hosted on GitHub Pages, the game is playable at:
-> `https://<your-username>.github.io/<repo-name>/`
+> `https://ashikscript.github.io/memory-game/`
 
 ## 📁 Files
 
